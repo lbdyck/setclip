@@ -5,14 +5,6 @@ SetClip consists of 3 REXX Exec's and 2 ISPF Panels.
    Members: $DOC     - this member
             $USERDOC - doc to help the end user
             LICENSE  - GPL License
-            SETCLIP  - primary rexx exec
-            SETCLIPM - rexx ispf edit macro
-            SETCLIPP - ispf panel
-            SETCLIPH - ispf tutorial panel
-            SETCLIPX - rexx exec for testing SETCLIP
-                       Thanks to John Kalinich
-            SETZSTRT - rexx called by SETCLIP when the SET command is used
-                       - Updates the ZSTART ISPF Profile Variable
             SUPPORT  - Statement of Support
 
 SetClip will perform two functions depending on how it is invoked.
